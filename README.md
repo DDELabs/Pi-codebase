@@ -1,7 +1,7 @@
 # Pi — Genetic Prioritisation of Drug Targets from GWAS SNPs
 
 > Leverages GWAS SNPs to prioritise gene targets and pathways using network-based Random Walk with Restart (RWR).
-(https://github.com/r-forge/pi314/tree/master/pkg)
+(https://github.com/r-forge/pi314/tree/master/pkg; https://github.com/hfang-bristol?tab=repositories)
 ---
 
 ## Overview
