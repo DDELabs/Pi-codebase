@@ -149,7 +149,6 @@ ls_pNode <- xPierSNPsAdv(
 
   # SNP scoring
   significance.threshold  = 5e-5,
-  score.cap               = 10,
 
   # LD
   include.LD              = "EUR",       # or LD.customised = my_ld_df
