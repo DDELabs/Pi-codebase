@@ -129,8 +129,6 @@ For custom LD: provide `LD.customised` — a 3-column data frame (Lead SNP, LD S
 
 ---
 
----
-
 ## Citation
 
 Fang H et al. *A genetics-led approach defines the drug target landscape of 30 immune-related traits.* Nature Genetics, 2019.
