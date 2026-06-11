@@ -74,7 +74,6 @@ SNP_data <- as.data.frame(GenomicRanges::mcols(gr)[, c('Variant', 'Pvalue')])
 | Parameter | What it controls | Example values |
 |-----------|-----------------|----------------|
 | `significance.threshold` | p-value cutoff; SNPs above this get zero score | `5e-5` |
-| `score.cap` | Maximum score after `-log10` transformation | `10` |
 | `LD.r2` | r² threshold for including LD SNPs | `0.8` (range: 0.8–1.0) |
 
 ### LD Population Panel
