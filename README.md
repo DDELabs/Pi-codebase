@@ -58,13 +58,6 @@ A two-column data frame or named vector:
 | SNP | dbSNP ID (e.g. `rs1234567`) or genomic position (`chr16:28525386`) |
 | Pvalue | GWAS p-value or FDR for each lead SNP |
 
-```r
-# Example
-data(ImmunoBase)
-gr  <- ImmunoBase$AS$variants
-SNP_data <- as.data.frame(GenomicRanges::mcols(gr)[, c('Variant', 'Pvalue')])
-```
-
 ---
 
 ## Parameters
