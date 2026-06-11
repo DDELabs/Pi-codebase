@@ -126,9 +126,3 @@ For custom LD: provide `LD.customised` — a 3-column data frame (Lead SNP, LD S
 |-----------|---------|
 | `cdf.function` | How SNP scores are transformed to gene weights | `empirical`, `exponential` |
 | `scoring.scheme` | How multiple SNP scores are aggregated per gene | `max`, `sum`, `sequential` |
-
----
-
-## Citation
-
-Fang H et al. *A genetics-led approach defines the drug target landscape of 30 immune-related traits.* Nature Genetics, 2019.
